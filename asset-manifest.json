@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/eltropa1/TimeFly/static/css/main.32eff935.css",
+    "main.js": "/eltropa1/TimeFly/static/js/main.4694e45e.js",
+    "index.html": "/eltropa1/TimeFly/index.html",
+    "main.32eff935.css.map": "/eltropa1/TimeFly/static/css/main.32eff935.css.map",
+    "main.4694e45e.js.map": "/eltropa1/TimeFly/static/js/main.4694e45e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32eff935.css",
+    "static/js/main.4694e45e.js"
+  ]
+}
